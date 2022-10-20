@@ -17,6 +17,10 @@ body { font-size: 20px; padding: 0; margin: 0;}
   right: 20;
 }
 
+#pos{
+  right: 400;
+}
+
 @media screen and (min-width:900px) {
   .scrollHalf__grupo { min-height: 100vh;}
   .scrollHalf__grupo__imagen { position: fixed; top: 0; left: 0; width: 50vw;}
