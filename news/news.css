@@ -14,7 +14,8 @@ body { font-size: 20px; padding: 0; margin: 0;}
 
 #close{
   position: absolute;
-  right: 1000;
+  right: 900;
+  width: 100;
 }
 
 @media screen and (min-width:900px) {
