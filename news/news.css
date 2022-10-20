@@ -1,8 +1,7 @@
 * { box-sizing: border-box;}
-body { font-size: 30px; padding: 0; margin: 0;}
+body { font-size: 20px; padding: 0; margin: 0;}
 
 .scrollHalf { position: relative}
-/*.scrollHalf__grupo { opacity: calc(1/(1+(var(--visible-y)*var(--visible-y)*var(--visible-y)*var(--visible-y)))); transition: all 200ms ease-in-out;}*/
 
 
 .scrollHalf__grupo {  transition: all 200ms ease-in-out; }
