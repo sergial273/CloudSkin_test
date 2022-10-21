@@ -21,5 +21,8 @@ body { font-size: 20px; padding: 0; margin: 0;}
 }
 
 .test{
-  position: absolute; top: 0; right: 0;
+  position: absolute;
+  top: 60;
+  right: 0;
+  width: 100px;
 }
