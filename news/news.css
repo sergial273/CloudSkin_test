@@ -20,6 +20,6 @@ body { font-size: 20px; padding: 0; margin: 0;}
   .scrollHalf__grupo__contenido { margin: 0 3vw 0 52vw; text-align: justify;}
 }
 
-test{
+.test{
   position: fixed; top: 0; right: 0; width: 50px;
 }
